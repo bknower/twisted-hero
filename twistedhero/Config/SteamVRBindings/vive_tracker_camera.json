@@ -8,8 +8,8 @@
 		{
 			"sources": [
 				{
-					"mode": "trackpad",
-					"path": "/user/hand/right/input/trackpad",
+					"mode": "button",
+					"path": "/user/hand/right/input/grip",
 					"inputs":
 					{
 						"click":
@@ -19,8 +19,8 @@
 					}
 				},
 				{
-					"mode": "trackpad",
-					"path": "/user/hand/left/input/trackpad",
+					"mode": "button",
+					"path": "/user/hand/left/input/grip",
 					"inputs":
 					{
 						"click":
@@ -48,6 +48,28 @@
 						"click":
 						{
 							"output": "/actions/main/in/GrabRight"
+						}
+					}
+				},
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/left/input/trackpad",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ThrustLeft"
+						}
+					}
+				},
+				{
+					"mode": "trackpad",
+					"path": "/user/hand/right/input/trackpad",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/ThrustRight"
 						}
 					}
 				},

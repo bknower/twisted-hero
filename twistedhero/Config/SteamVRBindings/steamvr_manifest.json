@@ -94,6 +94,14 @@
 			"type": "boolean"
 		},
 		{
+			"name": "/actions/main/in/ThrustLeft",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/ThrustRight",
+			"type": "boolean"
+		},
+		{
 			"name": "/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d",
 			"type": "vector2"
 		},
@@ -228,6 +236,8 @@
 			"/actions/main/in/TeleportLeft": "TeleportLeft",
 			"/actions/main/in/GrabLeft": "GrabLeft",
 			"/actions/main/in/GrabRight": "GrabRight",
+			"/actions/main/in/ThrustLeft": "ThrustLeft",
+			"/actions/main/in/ThrustRight": "ThrustRight",
 			"/actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d": "MotionControllerThumbLeft",
 			"/actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d": "MotionControllerThumbRight",
 			"/actions/main/in/VREditor_TriggerL axis": "VREditor_TriggerL",

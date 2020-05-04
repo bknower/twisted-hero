@@ -8,8 +8,8 @@
 		{
 			"sources": [
 				{
-					"mode": "button",
-					"path": "/user/hand/right/input/a",
+					"mode": "trigger",
+					"path": "/user/hand/right/input/grip",
 					"inputs":
 					{
 						"click":
@@ -19,30 +19,8 @@
 					}
 				},
 				{
-					"mode": "joystick",
-					"path": "/user/hand/right/input/thumbstick",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportRight"
-						}
-					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/a",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/TeleportLeft"
-						}
-					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/left/input/thumbstick",
+					"mode": "trigger",
+					"path": "/user/hand/left/input/grip",
 					"inputs":
 					{
 						"click":
