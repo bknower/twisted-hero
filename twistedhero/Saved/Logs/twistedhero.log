@@ -1098,3 +1098,605 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.04-01.42.53:448][  0]LogAssetRegistry: Asset discovery search completed in 11.2776 seconds
 [2020.05.04-01.42.53:451][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
 [2020.05.04-01.42.53:755][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.04-01.47.44:290][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-01.47.44:291][116]PIE: New page: PIE session: StartupMap (May 3, 2020, 5:47:44 PM)
+[2020.05.04-01.47.44:292][116]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.04-01.47.44:292][116]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.04-01.47.44:292][116]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2020.05.04-01.47.44:299][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006248s)
+[2020.05.04-01.47.44:300][116]LogAIModule: Creating AISystem for world StartupMap
+[2020.05.04-01.47.44:300][116]LogPlayLevel: PIE: World Init took: (0.001276s)
+[2020.05.04-01.47.44:300][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007759s)
+[2020.05.04-01.47.44:330][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-01.47.44:331][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-01.47.44:331][116]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-01.47.44:331][116]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: Channel Order:
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-01.47.44:393][116]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-01.47.44:407][116]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.04-01.47.44:408][116]LogInit: FAudioDevice initialized.
+[2020.05.04-01.47.44:417][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.47.44:688][116]LogLoad: Game class is 'GameModeBase'
+[2020.05.04-01.47.44:690][116]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2020.05.03-21.47.44
+[2020.05.04-01.47.44:691][116]LogWorld: Bringing up level for play took: 0.001468
+[2020.05.04-01.47.44:691][116]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.05.04-01.47.44:694][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.04-01.47.44:697][116]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.528
+[2020.05.04-01.47.44:713][117]LogRenderer: Reallocating scene render targets to support 3056x1528 Format 26 NumSamples 1 (Frame:1).
+[2020.05.04-01.48.01:308][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.48.01:308][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.48.01:539][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.48.01:539][606]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2020.05.04-01.48.01:583][606]LogSlate: Window 'twistedhero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-01.48.01:585][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.48.01:586][606]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-01.48.01:586][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.48.01:591][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-01.48.01:595][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.48.01:624][606]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.48.01:630][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.05.04-01.48.01:646][607]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.04-01.49.03:495][399]LogSteamVRInputDevice: Display: Action Manifest Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.03:495][399]LogSteamVRInputDevice: Display: Controller Bindings Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.03:499][399]LogSteamVRInputDevice: Searching for Controller Bindings files at: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.03:559][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.05.04-01.49.03:559][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [3884][application.generated.ue.twistedhero-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.05.04-01.49.03:559][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:560][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.03:561][399]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:355][456]LogSteamVRInputDevice: Display: Action Manifest Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.13:355][456]LogSteamVRInputDevice: Display: Controller Bindings Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.13:359][456]LogSteamVRInputDevice: Searching for Controller Bindings files at: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.13:379][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.05.04-01.49.13:379][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [3884][application.generated.ue.twistedhero-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.05.04-01.49.13:379][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:380][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.13:381][456]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.18:848][ 66]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.04-01.49.18:852][ 66]LogSlate: Window 'Project Settings' being destroyed
+[2020.05.04-01.49.20:048][189]LogTemp: Repeating last play command: VR Preview
+[2020.05.04-01.49.20:058][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-01.49.20:058][189]PIE: New page: PIE session: StartupMap (May 3, 2020, 5:49:20 PM)
+[2020.05.04-01.49.20:058][189]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2020.05.04-01.49.20:064][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006133s)
+[2020.05.04-01.49.20:065][189]LogAIModule: Creating AISystem for world StartupMap
+[2020.05.04-01.49.20:065][189]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2020.05.04-01.49.20:065][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007173s)
+[2020.05.04-01.49.20:093][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-01.49.20:095][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-01.49.20:095][189]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-01.49.20:095][189]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: Channel Order:
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-01.49.20:158][189]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-01.49.20:172][189]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.04-01.49.20:173][189]LogInit: FAudioDevice initialized.
+[2020.05.04-01.49.20:181][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.49.20:399][189]LogLoad: Game class is 'GameModeBase'
+[2020.05.04-01.49.20:401][189]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2020.05.03-21.49.20
+[2020.05.04-01.49.20:401][189]LogWorld: Bringing up level for play took: 0.002026
+[2020.05.04-01.49.20:402][189]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.05.04-01.49.20:406][189]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 1.182
+[2020.05.04-01.49.22:562][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.49.22:562][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.49.22:777][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.49.22:777][384]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2020.05.04-01.49.22:828][384]LogSlate: Window 'twistedhero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-01.49.22:830][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.49.22:830][384]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-01.49.22:830][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.49.22:839][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-01.49.22:842][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.49.22:871][384]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.49.22:876][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.04-01.49.22:891][385]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.05.04-01.49.33:386][605]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.04-01.49.33:625][605]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.05.04-01.49.33:632][605]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.05.04-01.49.33:666][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.05.04-01.49.33:669][605]Cmd: MAP LOAD FILE="C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.04-01.49.33:669][605]LightingResults: New page: Lighting Build
+[2020.05.04-01.49.33:670][605]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.05.04-01.49.33:670][605]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-01.49.33:670][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.49.33:670][605]MapCheck: New page: Map Check
+[2020.05.04-01.49.33:670][605]LightingResults: New page: Lighting Build
+[2020.05.04-01.49.33:699][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.04-01.49.33:704][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.04-01.49.33:737][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.04-01.49.33:755][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.04-01.49.33:755][605]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.05.04-01.49.33:755][605]LogFileHelpers: Loading map 'MotionControllerMap' took 0.087
+[2020.05.04-01.49.43:641][779]LogDialogs: Warning: Suppressed: VR Mode enables you to work on your project in virtual reality using motion controllers. This feature is still under development, so you may experience bugs or crashes while using it.
+[2020.05.04-01.49.44:412][779]LogSlate: Window 'Sequencer' being destroyed
+[2020.05.04-01.49.44:482][779]LogSteamVRInputDevice: Display: Action Manifest Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.44:482][779]LogSteamVRInputDevice: Display: Controller Bindings Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.44:491][779]LogSteamVRInputDevice: Searching for Controller Bindings files at: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.44:544][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.05.04-01.49.44:544][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [3884][application.generated.ue.twistedhero-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.05.04-01.49.44:544][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:545][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_WorldMovementL
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:546][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TouchL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_ConfirmRadialSelectionL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_ModifierL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadDownL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadLeftL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadRightL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadUpL
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_WorldMovementR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TouchR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_ConfirmRadialSelectionR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_ModifierR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadDownR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadLeftR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadRightR
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:547][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadUpR
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerL axis
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerAxisL axis
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadPositionL_X,VREditor_TrackpadPositionL_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerR axis
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerAxisR axis
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TrackpadPositionR_X,VREditor_TrackpadPositionR_Y X Y_axis2d
+[2020.05.04-01.49.44:548][779]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:186][532]LogSteamVRInputDevice: Display: Action Manifest Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.53:186][532]LogSteamVRInputDevice: Display: Controller Bindings Path: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.53:190][532]LogSteamVRInputDevice: Searching for Controller Bindings files at: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings
+[2020.05.04-01.49.53:245][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.05.04-01.49.53:245][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [3884][application.generated.ue.twistedhero-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.05.04-01.49.53:245][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/Benjamin/Documents/VRJam/twisted-hero/twistedhero/Config/SteamVRBindings/steamvr_manifest.json
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.05.04-01.49.53:246][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.53:247][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerL axis
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/VREditor_TriggerR axis
+[2020.05.04-01.49.53:248][532]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.05.04-01.49.53:465][533]Cmd: SELECT NONE
+[2020.05.04-01.50.03:761][703]Cmd: SELECT NONE
+[2020.05.04-01.50.07:423][127]LogTemp: Repeating last play command: VR Preview
+[2020.05.04-01.50.07:432][127]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.05.04-01.50.07:432][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-01.50.07:432][127]PIE: New page: PIE session: MotionControllerMap (May 3, 2020, 5:50:07 PM)
+[2020.05.04-01.50.07:432][127]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.05.04-01.50.07:445][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013199s)
+[2020.05.04-01.50.07:446][127]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.05.04-01.50.07:446][127]LogPlayLevel: PIE: World Init took: (0.000875s)
+[2020.05.04-01.50.07:446][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.014286s)
+[2020.05.04-01.50.07:477][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-01.50.07:484][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-01.50.07:484][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-01.50.07:485][127]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-01.50.07:485][127]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Name: Speakers (High Definition Audio Device)
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: Channel Order:
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-01.50.07:549][127]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-01.50.07:562][127]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2020.05.04-01.50.07:564][127]LogInit: FAudioDevice initialized.
+[2020.05.04-01.50.07:574][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.50.07:794][127]LogLoad: Game class is 'GameModeBase'
+[2020.05.04-01.50.07:796][127]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2020.05.03-21.50.07
+[2020.05.04-01.50.07:796][127]LogWorld: Bringing up level for play took: 0.001476
+[2020.05.04-01.50.07:797][127]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.05.04-01.50.07:804][127]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.581
+[2020.05.04-01.50.07:805][127]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.05.04-01.50.19:962][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.50.19:981][221]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.04-01.50.20:001][221]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.04-01.50.20:001][221]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.05.04-01.50.20:216][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-01.50.20:216][221]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.05.04-01.50.20:271][221]LogSlate: Window 'twistedhero Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-01.50.20:274][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.50.20:274][221]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-01.50.20:274][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.50.20:283][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-01.50.20:283][221]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2020.05.04-01.50.20:289][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-01.50.20:319][221]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-01.50.20:330][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.05.04-01.50.20:356][222]LogPlayLevel: Display: Destroying online subsystem :Context_5
