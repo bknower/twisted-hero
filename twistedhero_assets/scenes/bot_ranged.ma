@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
 //Name: bot_ranged.ma
-//Last modified: Mon, May 04, 2020 04:15:12 PM
+//Last modified: Mon, May 04, 2020 04:17:31 PM
 //Codeset: 1252
 requires maya "2019";
 requires "mtoa" "3.1.2";
@@ -13,13 +13,13 @@ fileInfo "osv" "Microsoft Windows 10 Technical Preview  (Build 18363)\n";
 createNode transform -s -n "persp";
 	rename -uid "F65B804E-4191-B6C1-4C3F-B2810D3E6CA2";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 4.7777438924421176 6.7854043563900035 10.93901330179194 ;
-	setAttr ".r" -type "double3" -20.738352729597175 23.400000000000322 0 ;
+	setAttr ".t" -type "double3" 5.6452509876222461 5.9835569280289702 9.52116876992981 ;
+	setAttr ".r" -type "double3" -17.738352729598855 33.800000000000608 -9.5686345505380298e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "4FC699D4-46F1-FE11-2B9B-68BF5E781D0D";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 9.8330835689117002;
+	setAttr ".coi" 9.5927147294227062;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
